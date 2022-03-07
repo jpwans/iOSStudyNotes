@@ -1,0 +1,6 @@
+framework module Pods_iOSStudyNotes {
+  umbrella header "Pods-iOSStudyNotes-umbrella.h"
+
+  export *
+  module * { export * }
+}
